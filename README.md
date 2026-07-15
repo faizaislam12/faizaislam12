@@ -3,7 +3,7 @@
 📖 I am currently studying CSE. <br>
 Eager to learn more about tech world. <br>
 <br>
-<img width="1821" height="633" alt="Yo_Curiosity_limitless" src="https://github.com/user-attachments/assets/68a53cd6-afcf-4bb2-baaf-89851eba4ed5" />
+<img width="1584" height="396" alt="When curiosity pushes you to know the unknown _ FI" src="https://github.com/user-attachments/assets/b9c14b17-0b31-4a5d-a46d-e998a3aa3fa3" />
 <br>
 ### 💻 Tech Stack:
 - Frontend Languages: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
@@ -14,6 +14,7 @@ Eager to learn more about tech world. <br>
 - Design: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br>
  - Security Stuff: ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) <br>
 
+<!--
 ### Profile Views: 
 ![Profile Views](https://komarev.com/ghpvc/?username=faizaislam12&color=blue) <br>
 
@@ -21,7 +22,7 @@ Eager to learn more about tech world. <br>
 ![](https://github-readme-stats.vercel.app/api?username=faizaislam12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=faizaislam12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaislam12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 ---
 
 
